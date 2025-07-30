@@ -7,6 +7,7 @@ public class Test {
         int res=a+b;
         System.out.println("the result is " +res);
         System.out.println("this is my first time jenkiens");
+        System.out.println("this is a jenkins")
     }
     public static void main(String[] args)
     {
