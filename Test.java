@@ -9,7 +9,7 @@ public class Test {
         System.out.println("this is my first time jenkiens");
         System.out.println("this is a jenkins");
         System.out.println("my name is vijay");
-        system.out.println("i do my best")
+        System.out.println("i do my best");
     }
     public static void main(String[] args)
     {
